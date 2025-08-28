@@ -1,0 +1,101 @@
+.container{
+    text-align: center;
+    background-color: white;
+    color:black;
+}
+
+.contactInfo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:80%;
+    /* background-color: pink; */
+    margin:auto;
+}
+
+.contactDetails{
+    padding: 20px;
+    height: max-content;
+    /* background: #000; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    padding: 20px;
+    /* background: red; */
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contact{
+    height: 100%;
+    background: blue;
+    color:white;
+    padding: 100px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    width:100%;
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+
+.names{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:10px;
+}
+
+.names input{
+    padding:12px 20px;
+    border-radius:8px;
+    border:none;
+    width:100%;
+    background-color: rgb(244, 243, 243);
+}
+
+.input{
+    padding:12px 20px;
+    border-radius:8px;
+    border:none;
+    width:100%;
+    background-color: rgb(244, 243, 243);
+}
+
+.submit{
+    padding:12px 20px;
+    border-radius:8px;
+    border:none;
+    width:100%;
+    background: black;
+    color:#fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.headings{
+    margin: 0px 0px 20px 0px;
+}
+
+.seperator{
+    height:1px ;
+    width:50%;
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+.mainheading{
+    padding:25px;
+}

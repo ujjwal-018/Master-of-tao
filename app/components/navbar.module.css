@@ -1,0 +1,26 @@
+.name{
+  color:white;
+  font-weight: 700;
+}
+
+.bg{
+    background-color:rgb(0,0,0,0.5);
+}
+
+
+.main{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  gap:5px;
+  padding: 20px 0px;
+}
+
+.logo{
+  background-image: url('https://i.pinimg.com/1200x/ff/93/e5/ff93e51d1b6955332282cb28dbfd9bb9.jpg');
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  height:40px;
+  width:40px;
+}

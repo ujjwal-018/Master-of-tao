@@ -1,0 +1,38 @@
+.container{
+    /* border:2px solid yellow; */
+    width:max-content;
+    padding:10px;
+    border:2px solid yellow;
+    border-radius: 5px;
+
+}
+
+.imageContainer{
+    padding:20px;
+    margin:auto;
+    text-align:center;
+    /* border:5px solid red; */
+    position:relative;
+    height:150px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.title{
+    font-size:20px;
+    font-weight:600;
+    text-align: start;
+}
+
+.content{
+    font-size:16px;
+    font-weight:400;
+    text-align: start;
+}
+
+.textContainer{
+    padding:20px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
