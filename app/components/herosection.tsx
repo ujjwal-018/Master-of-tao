@@ -17,4 +17,4 @@ const herosection = () => {
   )
 }
 
-export default herosection
+export default herosection;
