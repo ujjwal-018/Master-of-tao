@@ -9,6 +9,7 @@ import Institute from "./components/Institute";
 export default function Home() {
   return (
     <div className={styles.container}>
+      Hey i am chage the app
       <Navbar/>
       <Hero/>
       <div className={styles.spacer}></div>
